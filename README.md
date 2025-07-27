@@ -1,6 +1,6 @@
 -----
 
-# VLM Readme
+# VLM using pytorch
 
 This repository contains the code for a Vision-Language Model (VLM) built using PyTorch. This VLM is designed to understand and process information from both visual (images) and textual (natural language) inputs, enabling tasks like image captioning and extracting features from an image.
 
